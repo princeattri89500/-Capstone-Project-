@@ -1,0 +1,12 @@
+unique_id,timestamp,tag,start_date,end_date,rmse,mae,r2,runtime,model_version,note
+57e6f6b7,2026-11-20T05:11:21.770692,all,2017-11-29,2019-07-01,58036.01,48260.11,-8.8069,00:00:05,1.0,Production supervised time-series revenue forecasting model
+e46ce655,2026-11-20T05:11:22.599275,eire,2017-11-29,2019-06-28,5083.09,3812.31,-0.9391,00:00:00,1.0,Production supervised time-series revenue forecasting model
+8952e166,2026-11-20T05:11:23.438667,france,2017-11-29,2019-07-01,1168.75,853.63,-0.9358,00:00:00,1.0,Production supervised time-series revenue forecasting model
+16632613,2026-11-20T05:11:24.480670,germany,2017-11-29,2019-07-01,731.63,611.75,-0.7722,00:00:01,1.0,Production supervised time-series revenue forecasting model
+5fba2a6c,2026-11-20T05:11:25.132085,hong_kong,2018-04-19,2019-05-20,413.16,287.77,0.9205,00:00:00,1.0,Production supervised time-series revenue forecasting model
+11ebd489,2026-11-20T05:11:26.034446,netherlands,2017-11-30,2019-06-17,690.48,648.8,-9.9721,00:00:00,1.0,Production supervised time-series revenue forecasting model
+4483d4c2,2026-11-20T05:11:26.832316,norway,2017-12-05,2019-06-19,683.78,357.06,0.0085,00:00:00,1.0,Production supervised time-series revenue forecasting model
+9a75b790,2026-11-20T05:11:27.664527,portugal,2017-11-29,2019-07-01,3077.88,1667.37,-0.2959,00:00:00,1.0,Production supervised time-series revenue forecasting model
+03563be4,2026-11-20T05:11:28.262795,singapore,2018-04-25,2019-05-12,4642.32,3303.97,0.3739,00:00:00,1.0,Production supervised time-series revenue forecasting model
+efbcdf35,2026-11-20T05:11:29.105269,spain,2017-12-01,2019-06-25,614.45,509.25,-7.2111,00:00:00,1.0,Production supervised time-series revenue forecasting model
+ca88feaa,2026-11-20T05:11:30.067051,united_kingdom,2017-11-29,2019-07-01,152069.56,118693.79,-63.4171,00:00:00,1.0,Production supervised time-series revenue forecasting model

@@ -1,0 +1,7 @@
+2026-11-20 10:36:54 [INFO] [data_ingestion_prod]: Starting automated data ingestion from: cs-train (clean=False)
+2026-11-20 10:37:00 [INFO] [data_ingestion_prod]: Successfully cleaned and consolidated 815011 records across 21 files
+2026-11-20 10:37:07 [ERROR] [data_ingestion_prod]: Ingestion failed: Cannot cast DatetimeArray to dtype datetime64[D]
+2026-11-20 10:37:54 [INFO] [data_ingestion_prod]: Starting automated data ingestion from: cs-train (clean=True)
+2026-11-20 10:38:00 [INFO] [data_ingestion_prod]: Successfully cleaned and consolidated 815011 records across 21 files
+2026-11-20 10:38:09 [INFO] [data_ingestion_prod]: Successfully generated daily time-series datasets for: ['all', 'united_kingdom', 'eire', 'germany', 'france', 'norway', 'spain', 'hong_kong', 'portugal', 'singapore', 'netherlands']
+2026-11-20 10:38:09 [INFO] [data_ingestion_prod]: Data ingestion completed successfully in 00:00:14
